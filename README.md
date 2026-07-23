@@ -8,7 +8,7 @@ I'm learning residential architecture the way it actually sticks: building the f
 
 ## Featured Systems
 
-The builds that best show the field will sit here as they land. The first ones are on the way.
+The builds that best show the field will sit here as they land.
 
 ## What it covers
 
@@ -16,10 +16,6 @@ Computational and generative design, building-performance simulation, BIM, and p
 
 **What it isn't.** Not a degree, and no claim past what each build proves. These builds are study and portfolio mock-ups, not stamped construction documents, engineering certifications, or code approvals. Life safety decisions require the licensed professionals responsible for them, and the title architect is legally protected.
 
-## Progress
+## The road to 100
 
-| Field | Value |
-|-------|-------|
-| Status | 0 / 100 committed |
-
-Start at rank 1 in `ideas/mastery-architecture-100/mastery-architecture-100.md`. Full catalog: [`INDEX.md`](./INDEX.md).
+**Just getting started, 100 to go.** The first systems are on the way. Each one lands in the catalog with its own architecture, a walkthrough, and a self-check: **[browse the catalog in `INDEX.md`](./INDEX.md)**.
